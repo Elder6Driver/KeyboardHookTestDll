@@ -1,0 +1,7 @@
+LIBRARY KeyboardHookDLL
+
+EXPORTS
+
+SetHook @2
+
+DeleteHook @4
